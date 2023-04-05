@@ -1,0 +1,20 @@
+*{
+  margin:0;
+  padding:0;
+}
+div{
+  text-align: center;
+}
+p{
+  font-size: 3rem;
+}
+button{
+  padding: 2vmax;
+  margin:2vmax;
+  font-size:3rem;
+  color:white;
+  background-color: rgba(97, 19, 97, 0.741);
+  border-radius: 2rem ;
+  border:none;
+  cursor:pointer;
+}
